@@ -21,14 +21,14 @@ export const config = {
     // 所在省份
     PROVINCE: "河北",
     // 所在城市
-    CITY: "保定",
+    CITY: "石家庄",
 
     /** 生日相关 */
 
     // 生日，修改名字为对应需要显示的名字, data 仅填月日即可, 请严格按照示例填写
     BIRTHDAYS: [
-      {"name": "家宝", "year": "1998", "date": "07-11", "type": "new"},
-      {"name": "家美", "year": "2004", "date": "04-12", "type": "new"},
+      {"name": "大哥", "year": "1998", "date": "07-11", "type": "new"},
+      {"name": "我", "year": "2004", "date": "04-12", "type": "new"},
       {"name": "爸爸爹", "year": "1974", "date": "09-26", "type": "new"},
       {"name": "老妈", "year": "1975", "date": "11-19", "type": "new"},
     ],
